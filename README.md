@@ -16,7 +16,7 @@ Bem-vindo ao repositório `logica-de-programacao-js`! Este projeto é um guia or
 - **objetos**: Estruturas de dados com propriedades.
 - **manipulacao-strings**: Métodos e template literals.
 - **tratamento-erros**: Depuração e `try...catch`.
-- **projetos**: Aplicações práticas como calculadora, jogo de adivinhação e lista de tarefas.
+- **desafio**: Aplicações práticas.
 
 ## Como Usar
 
