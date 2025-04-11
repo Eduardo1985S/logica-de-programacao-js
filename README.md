@@ -1,4 +1,5 @@
 ![Lógica de Programação com JavaScript width="600"](https://i.imgur.com/toT9iDi.png)
+<img src="https://i.imgur.com/toT9iDi.png" alt="Lógica de Programação com JavaScript" width="60%" />
 
 # Lógica de Programação com JavaScript
 
