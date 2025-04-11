@@ -22,4 +22,8 @@ Bem-vindo ao repositório `logica-de-programacao-js`! Este projeto é um guia or
 
 1. Clone o repositório:
    ```bash
+<<<<<<< HEAD
    git clone https://github.com/seu-usuario/logica-de-programacao-js.git
+=======
+   git clone https://github.com/seu-usuario/logica-de-programacao-js.git
+>>>>>>> df9c074 (Adiciona pasta com Desafios JS)
