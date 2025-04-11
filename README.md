@@ -1,4 +1,4 @@
-![Lógica de Programação com JavaScript](https://imgur.com/toT9iDi)
+![Lógica de Programação com JavaScript](https://i.imgur.com/toT9iDi.png)
 
 # Lógica de Programação com JavaScript
 
