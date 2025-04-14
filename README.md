@@ -20,7 +20,7 @@ Bem-vindo ao repositório `logica-de-programacao-js`! Este projeto é um guia or
 - 📁**tratamento-erros**: Depuração e `try...catch`.
 - 📁**desafio**: Aplicações práticas.
 
-## 🚀🚀 Como Usar
+## 🚀🚀 🚀 Como Usar
 
 1. Clone o repositório:
    ```bash
