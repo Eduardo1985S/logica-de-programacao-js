@@ -6,19 +6,19 @@ Bem-vindo ao repositório `logica-de-programacao-js`! Este projeto é um guia or
 
 ## 📁 Estrutura
 
-📁- **introducao**: Primeiros passos com JavaScript.
-📁- **variaveis**: Declaração e uso de `let`, `const`, `var`.
-- **tipos-de-dados**: Números, strings, booleanos e mais.
-- **operadores-matematicos**: Operações aritméticas.
-- **operadores-logicos**: Comparações e lógica.
-- **estruturas-condicionais**: `if`, `else`, `switch`.
-- **lacos-de-repeticao**: `for`, `while`, `do...while`.
-- **funcoes**: Criação e uso de funções.
-- **arrays**: Manipulação de listas.
-- **objetos**: Estruturas de dados com propriedades.
-- **manipulacao-strings**: Métodos e template literals.
-- **tratamento-erros**: Depuração e `try...catch`.
-- **desafio**: Aplicações práticas.
+- 📁**introducao**: Primeiros passos com JavaScript.
+- 📁**variaveis**: Declaração e uso de `let`, `const`, `var`.
+- 📁**tipos-de-dados**: Números, strings, booleanos e mais.
+- 📁**operadores-matematicos**: Operações aritméticas.
+- 📁**operadores-logicos**: Comparações e lógica.
+- 📁**estruturas-condicionais**: `if`, `else`, `switch`.
+- 📁**lacos-de-repeticao**: `for`, `while`, `do...while`.
+- 📁**funcoes**: Criação e uso de funções.
+- 📁**arrays**: Manipulação de listas.
+- 📁**objetos**: Estruturas de dados com propriedades.
+- 📁**manipulacao-strings**: Métodos e template literals.
+- 📁**tratamento-erros**: Depuração e `try...catch`.
+- 📁**desafio**: Aplicações práticas.
 
 ## 🚀 Como Usar
 
