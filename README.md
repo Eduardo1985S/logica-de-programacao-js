@@ -7,7 +7,7 @@ Bem-vindo ao repositório `logica-de-programacao-js`! Este projeto é um guia or
 ## 📁 Estrutura
 
 📁- **introducao**: Primeiros passos com JavaScript.
-- **variaveis**: Declaração e uso de `let`, `const`, `var`.
+📁- **variaveis**: Declaração e uso de `let`, `const`, `var`.
 - **tipos-de-dados**: Números, strings, booleanos e mais.
 - **operadores-matematicos**: Operações aritméticas.
 - **operadores-logicos**: Comparações e lógica.
